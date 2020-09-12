@@ -1,4 +1,5 @@
 # Bookmarks
+[![](https://github.com/jaaufauvre/bookmarks/workflows/Link%20checker/badge.svg)](https://github.com/jaaufauvre/bookmarks/actions?query=workflow%3ALink%20checker)
 
 ## Books
 * 1995 - [The Mythical Man-Month](https://www.amazon.co.uk/dp/0201835959) (Fred Brooks)
