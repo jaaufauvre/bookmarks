@@ -2,7 +2,7 @@ on:
   push:
     branches: master
   schedule:
-  - cron: '0 16 * * *'
+    - cron: "0 16 * * *"
 name: Link checker
 jobs:
   linkChecker:
@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Link Checker
         id: lc
-        uses: peter-evans/link-checker@v1.2.2      
+        uses: peter-evans/link-checker@v1.2.2
         with:
           args: -v -r * -x jaaufauvre
       - name: Fail?
