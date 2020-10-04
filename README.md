@@ -2,6 +2,7 @@
 [![](https://github.com/jaaufauvre/bookmarks/workflows/Link%20checker/badge.svg)](https://github.com/jaaufauvre/bookmarks/actions?query=workflow%3ALink%20checker)
 
 ## Books
+
 * 1995 - [The Mythical Man-Month](https://www.amazon.co.uk/dp/0201835959) (Fred Brooks)
 * 2000 - [The Code Book](https://www.amazon.co.uk/dp/0385495323) (Simon Singh)
 * 2002 - [Facts And Fallacies Of Software Engineering](https://www.amazon.co.uk/dp/0321117425) (Robert L. Glass)
@@ -22,4 +23,10 @@
 * 2015-2019 - [Software Architecture for Developers (Vol. 2)](https://leanpub.com/b/software-architecture) (Simon Brown)
 * 2017 - [Clean Architecture](https://www.amazon.co.uk/dp/0134494164) (Robert C. Martin)
 * 2019 - [Clean Agile](https://www.amazon.co.uk/dp/0135781868) (Robert C. Martin)
+* 2019 - [Hands-On Microservices with Spring Boot and Spring Cloud](https://www.amazon.co.uk/dp/B07T1Y2JRJ) (Magnus Larsson)
 * 2020 - [Design and Build Great Web APIs](https://www.amazon.co.uk/dp/1680506803) (Mike Amundsen)
+
+## Publications
+
+* 2012 - [The Web Giants: Culture – Practices – Architecture](https://www.octo.com/wp-content/uploads/2019/11/2016_GDW_web_EN-1.pdf) (OCTO Technology)
+* 2016 - [Software Craftsmanship: Better Places with Better Code](https://www.octo.com/wp-content/uploads/2019/03/WP_Culture_Code_Web_EN_2019.pdf) (OCTO Technology)
