@@ -16,17 +16,20 @@
 * 2010 - [97 Things Every Programmer Should Know](https://www.amazon.co.uk/dp/0596809484) (*)
 * 2011 - [The Clean Coder](https://www.amazon.co.uk/dp/0137081073) (Robert C. Martin)
 * 2011 - [The Elements Of Scrum](https://www.amazon.co.uk/dp/B004O0U74Q) (Hillary Louise Johnson, Chris Sims)
-* 2012-2018 - [Software Architecture for Developers (Vol. 1)](https://leanpub.com/b/software-architecture) (Simon Brown)
+* 2012-2022 - [Software Architecture for Developers](https://leanpub.com/b/software-architecture) (Simon Brown)
 * 2013 - [The Phoenix Project](https://www.amazon.co.uk/dp/0988262592) (Gene Kim)
 * 2015 - [Your Code As A Crime Scene](https://www.amazon.co.uk/dp/1680500384) (Adam Tornhill)
 * 2015 - [Building Microservices](https://www.amazon.co.uk/dp/1491950358) (Sam Newman)
 * 2015 - [The Nature of Software Development](https://www.amazon.co.uk/dp/1941222374) (Ron Jeffries)
-* 2015-2019 - [Software Architecture for Developers (Vol. 2)](https://leanpub.com/b/software-architecture) (Simon Brown)
+* 2015-2022 - [The C4 model for visualising software architecture](https://leanpub.com/b/software-architecture) (Simon Brown)
 * 2017 - [Clean Architecture](https://www.amazon.co.uk/dp/0134494164) (Robert C. Martin)
 * 2018 - [Accelerate: Building and Scaling High Performing Technology Organizations](https://www.amazon.co.uk/dp/1942788339) (Nicole Forsgren, Jez Humble, Gene Kim)
 * 2019 - [Clean Agile](https://www.amazon.co.uk/dp/0135781868) (Robert C. Martin)
 * 2019 - [Hands-On Microservices with Spring Boot and Spring Cloud](https://www.amazon.co.uk/dp/B07T1Y2JRJ) (Magnus Larsson)
-* 2020 - [Design and Build Great Web APIs](https://www.amazon.co.uk/dp/1680506803) (Mike Amundsen)
+* 2019 - [Team Topologies](https://www.amazon.co.uk/dp/1942788819) (Matthew Skelton, Manuel Pais)
+* 2020 - [Software Engineering at Google](https://www.amazon.co.uk/dp/1492082791) (Titus Winters, Tom Manshreck, Hyrum Wright)
+* 2021 - [Engineers Survival Guide](https://www.amazon.co.uk/dp/B09MBZBGFK) (Merih Taze)
+* 2022 - [Modern Software Engineering](https://www.amazon.co.uk/dp/0137314914) (David Farley)
 
 ## Publications
 
