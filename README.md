@@ -23,6 +23,7 @@
 * 2015 - [The Nature of Software Development](https://www.amazon.co.uk/dp/1941222374) (Ron Jeffries)
 * 2015-2022 - [The C4 model for visualising software architecture](https://leanpub.com/b/software-architecture) (Simon Brown)
 * 2017 - [Clean Architecture](https://www.amazon.co.uk/dp/0134494164) (Robert C. Martin)
+* 2017 - [Designing Data Intensive Applications](https://www.amazon.co.uk/dp/1449373321) (Martin Kleppmann)
 * 2018 - [Accelerate: Building and Scaling High Performing Technology Organizations](https://www.amazon.co.uk/dp/1942788339) (Nicole Forsgren, Jez Humble, Gene Kim)
 * 2019 - [Clean Agile](https://www.amazon.co.uk/dp/0135781868) (Robert C. Martin)
 * 2019 - [Hands-On Microservices with Spring Boot and Spring Cloud](https://www.amazon.co.uk/dp/B07T1Y2JRJ) (Magnus Larsson)
@@ -30,6 +31,7 @@
 * 2020 - [Software Engineering at Google](https://www.amazon.co.uk/dp/1492082791) (Titus Winters, Tom Manshreck, Hyrum Wright)
 * 2021 - [Engineers Survival Guide](https://www.amazon.co.uk/dp/B09MBZBGFK) (Merih Taze)
 * 2022 - [Modern Software Engineering](https://www.amazon.co.uk/dp/0137314914) (David Farley)
+* 2023 - [Tidy First?](https://www.amazon.co.uk/dp/1098151240) (Kent Beck)
 
 ## Publications
 
