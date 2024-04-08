@@ -35,5 +35,5 @@
 
 ## Publications
 
-* 2012 - [The Web Giants: Culture – Practices – Architecture](https://www.octo.com/wp-content/uploads/2019/11/2016_GDW_web_EN-1.pdf) (OCTO Technology)
-* 2016 - [Software Craftsmanship: Better Places with Better Code](https://www.octo.com/wp-content/uploads/2019/03/WP_Culture_Code_Web_EN_2019.pdf) (OCTO Technology)
+* 2012 - [The Web Giants: Culture – Practices – Architecture](https://www.amazon.co.uk/dp/B01HYRL640) (OCTO Technology)
+* 2016 - [Software Craftsmanship: Better Places with Better Code](https://publication.octo.com/en/download-whitepaper-culture-code) (OCTO Technology)
