@@ -15,7 +15,7 @@
 * 2009 - [97 Things Every Project Manager Should Know](https://www.amazon.co.uk/dp/0596804164) (*)
 * 2010 - [97 Things Every Programmer Should Know](https://www.amazon.co.uk/dp/0596809484) (*)
 * 2011 - [The Clean Coder](https://www.amazon.co.uk/dp/0137081073) (Robert C. Martin)
-* 2011 - [The Elements Of Scrum](https://www.amazon.co.uk/dp/B004O0U74Q) (Hillary Louise Johnson, Chris Sims)
+* 2011 - [The Elements Of Scrum](https://www.amazon.co.uk/dp/0982866917) (Hillary Louise Johnson, Chris Sims)
 * 2012-2022 - [Software Architecture for Developers](https://leanpub.com/b/software-architecture) (Simon Brown)
 * 2013 - [The Phoenix Project](https://www.amazon.co.uk/dp/0988262592) (Gene Kim)
 * 2015 - [Your Code As A Crime Scene](https://www.amazon.co.uk/dp/1680500384) (Adam Tornhill)
